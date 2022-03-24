@@ -9,6 +9,7 @@
 <body>
     <header class="Header">
         <div class="Container">
+            <img src="./logo.jpg" alt="logo">
             <p class="main__text">Лабораторная работа №1</p>
         </div>
     </header>
