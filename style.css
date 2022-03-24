@@ -1,0 +1,10 @@
+header .Container {
+    display: flex;
+    justify-content: space-between;
+}
+.main__text {
+    text-align: center;
+}
+.footer__text {
+    text-align: center;
+}
